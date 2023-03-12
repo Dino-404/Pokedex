@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.pokedex"
+    minSdkVersion="16"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="C:\Users\guill\Desktop\pokedex\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\guill\Desktop\pokedex\build\app\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\guill\Desktop\pokedex\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.2.0;C:\Users\guill\Documents\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="C:\Users\guill\Desktop\pokedex\build\app\intermediates\lint_vital_partial_results\release\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="C:\Users\guill\Desktop\pokedex\build\app\intermediates\javac\release\classes;C:\Users\guill\Desktop\pokedex\build\app\tmp\kotlin-classes\release;C:\Users\guill\Desktop\pokedex\build\app\kotlinToolingMetadata;C:\Users\guill\Desktop\pokedex\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.pokedex"
+      generatedSourceFolders="C:\Users\guill\Desktop\pokedex\build\app\generated\source\buildConfig\release;C:\Users\guill\Desktop\pokedex\build\app\generated\aidl_source_output_dir\release\out;C:\Users\guill\Desktop\pokedex\build\app\generated\renderscript_source_output_dir\release\out;C:\Users\guill\Desktop\pokedex\build\app\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="C:\Users\guill\Desktop\pokedex\build\app\generated\res\rs\release;C:\Users\guill\Desktop\pokedex\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

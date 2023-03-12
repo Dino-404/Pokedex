@@ -1,0 +1,28 @@
+^C:\USERS\DINO\DESKTOP\POKEDEX\BUILD\WINDOWS\CMAKEFILES\2BD5B4C37B7315082873F9E29DFEF1A4\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Dino\Documents\flutter PROJECT_DIR=C:\Users\Dino\Desktop\pokedex FLUTTER_ROOT=C:\Users\Dino\Documents\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Dino\Desktop\pokedex\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Dino\Desktop\pokedex FLUTTER_TARGET=C:\Users\Dino\Desktop\pokedex\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Dino\Desktop\pokedex\.dart_tool\package_config.json C:/Users/Dino/Documents/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DINO\DESKTOP\POKEDEX\BUILD\WINDOWS\CMAKEFILES\5791171ED57BF98C6D99A868B9C5B708\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DINO\DESKTOP\POKEDEX\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Dino/Desktop/pokedex/windows -BC:/Users/Dino/Desktop/pokedex/build/windows --check-stamp-file C:/Users/Dino/Desktop/pokedex/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dino\Desktop\pokedex\build\windows\CMakeFiles\6ec90d3d8b7ec1134bf4a20d88ab76cd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{475D811F-C0F1-3FA7-915F-CE53EDDC0A33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/assets/pokeball_icon.png
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/assets/pokemon_logo.png
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Dino/Desktop/pokedex/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
